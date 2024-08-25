@@ -1,8 +1,8 @@
 <template>
     <div id="main-banner">
-        <h1>Make Your Banner</h1>
+        <h1>Make Your Banner estou editando pelo tab na nuvem</h1>
     </div>
-    
+
 </template>
 
 <script>
